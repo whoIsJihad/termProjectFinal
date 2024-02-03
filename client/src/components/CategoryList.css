@@ -1,0 +1,31 @@
+/* CategoryList.css */
+
+.category-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Align boxes in a row */
+  }
+  
+  .category-box {
+    width: 48%; /* Set a width to ensure two boxes fit in a row (adjust as needed) */
+    box-sizing: border-box; /* Include padding and border in the width */
+    border: 2px solid #3498db; /* Blue border */
+    padding: 15px; /* Increased padding */
+    margin: 10px 0; /* Adjusted margin for spacing between rows */
+    border-radius: 10px; /* Larger border radius */
+    background-color: #ecf0f1; /* Light gray background */
+    color: #2c3e50; /* Dark text color */
+    transition: transform 0.2s ease-in-out; /* Add a smooth transition effect */
+  }
+  
+  .category-box:hover {
+    transform: scale(1.05); /* Scale up on hover */
+  }
+  
+  .category-heading {
+    font-size: 48px; /* Larger font size for the heading */
+    color:tomato; /* Red text color for the heading */
+    text-align: center; /* Center the heading */
+    margin-bottom: 20px; /* Add margin at the bottom for spacing */
+  }
+  

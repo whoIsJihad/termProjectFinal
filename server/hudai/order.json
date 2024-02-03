@@ -1,0 +1,83 @@
+[
+    {
+      "UserID": 1,
+      "DatePlaced": "2023-01-15",
+      "Amount": 20,
+      "PaymentMethod": "Credit Card",
+      "PaymentStatus": "Paid",
+      "DeliveryStatus": "Delivered"
+    },
+    {
+      "UserID": 2,
+      "DatePlaced": "2023-01-16",
+      "Amount": 15,
+      "PaymentMethod": "PayPal",
+      "PaymentStatus": "Paid",
+      "DeliveryStatus": "Processing"
+    },
+    {
+      "UserID": 3,
+      "DatePlaced": "2023-01-20",
+      "Amount": 30,
+      "PaymentMethod": "Cash On Delivery",
+      "PaymentStatus": "Pending",
+      "DeliveryStatus": "Shipped"
+    },
+    {
+      "UserID": 4,
+      "DatePlaced": "2023-01-25",
+      "Amount": 25,
+      "PaymentMethod": "Credit Card",
+      "PaymentStatus": "Paid",
+      "DeliveryStatus": "Delivered"
+    },
+    {
+      "UserID": 5,
+      "DatePlaced": "2023-02-01",
+      "Amount": 40,
+      "PaymentMethod": "PayPal",
+      "PaymentStatus": "Paid",
+      "DeliveryStatus": "Processing"
+    },
+    {
+      "UserID": 6,
+      "DatePlaced": "2023-02-05",
+      "Amount": 15,
+      "PaymentMethod": "Credit Card",
+      "PaymentStatus": "Paid",
+      "DeliveryStatus": "Delivered"
+    },
+    {
+      "UserID": 7,
+      "DatePlaced": "2023-02-10",
+      "Amount": 18,
+      "PaymentMethod": "PayPal",
+      "PaymentStatus": "Paid",
+      "DeliveryStatus": "Processing"
+    },
+    {
+      "UserID": 8,
+      "DatePlaced": "2023-02-15",
+      "Amount": 22,
+      "PaymentMethod": "Credit Card",
+      "PaymentStatus": "Paid",
+      "DeliveryStatus": "Delivered"
+    },
+    {
+      "UserID": 9,
+      "DatePlaced": "2023-02-20",
+      "Amount": 16,
+      "PaymentMethod": "PayPal",
+      "PaymentStatus": "Paid",
+      "DeliveryStatus": "Processing"
+    },
+    {
+      "UserID": 10,
+      "DatePlaced": "2023-02-25",
+      "Amount": 28,
+      "PaymentMethod": "Credit Card",
+      "PaymentStatus": "Paid",
+      "DeliveryStatus": "Delivered"
+    }
+  ]
+  
